@@ -10,10 +10,10 @@
 Public issue tracking for the iOS reminders app, Memento.
 
 <div>
-<img src="https://www.getmemento.ca/uploads/8/0/3/7/80376636/website-feature-1_3_orig.png" alt="Memento Screenshot"
+<img src="https://www.getmemento.ca/uploads/8/0/3/7/80376636/website-apple-reminders-compare_orig.png" alt="Memento Screenshot"
 	title="Memento" height="400" />
 	
-<img src="https://www.getmemento.ca/uploads/8/0/3/7/80376636/published/website-feature-2_4.png?1549732547" alt="Memento Screenshot"
+<img src="https://www.getmemento.ca/uploads/8/0/3/7/80376636/website-alerts_orig.png" alt="Memento Screenshot"
 	title="Memento" height="400" />
 </div>
 
